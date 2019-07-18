@@ -12,6 +12,7 @@ from PIL import Image
 import requests
 from io import BytesIO
 import random
+import numpy
  ##############################
  # for git hub update from my lappy
  ###########################
