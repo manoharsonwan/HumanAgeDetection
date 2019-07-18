@@ -12,7 +12,9 @@ from PIL import Image
 import requests
 from io import BytesIO
 import random
-
+ ##############################
+ # for git hub update 
+ ###########################
 
 file_path = "/home/qwickbit/Documents/Palm_API/EDCC-Palmprint-Recognition/palmprint_data"
 #upload_img = os.path.join(file_path, "a_01.bmp")
