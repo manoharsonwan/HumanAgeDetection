@@ -15,7 +15,7 @@ import random
  ##############################
  # for git hub update 
  ###########################
-
+ 
 file_path = "/home/qwickbit/Documents/Palm_API/EDCC-Palmprint-Recognition/palmprint_data"
 #upload_img = os.path.join(file_path, "a_01.bmp")
 #TEST_A_02_PALMPRINT_IMAGE = os.path.join(TEST_PALMPRINT_DATA_DIR, "a_02.bmp")
